@@ -6,4 +6,4 @@ description: ""
 keyword: ""
 url: "https://4d105s25p3.github.io"
 baseurl: ""
-theme: minimal
+theme: jekyll-theme-cayman
