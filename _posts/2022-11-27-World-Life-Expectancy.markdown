@@ -1,6 +1,6 @@
 ---
 
-layout: post
+layout: default
 title: "World Life Expectancy Data"
 date: 2022-11-25 18:35:00 -0800
 categories: category1, category2
