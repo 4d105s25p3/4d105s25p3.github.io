@@ -2,7 +2,7 @@
 
 layout: post
 title: "World Life Expectancy Data"
-date: 2022-11-27 18:35:00 -0000
+date: 2022-11-25 18:35:00 -0800
 categories: category1, category2
 tags: meta
 
