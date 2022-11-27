@@ -3,7 +3,6 @@
 layout: post
 title: "Hello"
 date: 2022-11-27 12:37:00
-categories: true
 tags: meta
 
 ---
